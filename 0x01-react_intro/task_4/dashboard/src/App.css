@@ -1,0 +1,22 @@
+.App-header {
+  border-bottom: 2px solid red;
+  background-color: white;
+  color: red;
+  display: flex;
+}
+
+.App-header img {
+  width: 120px;
+  height: 120px;
+}
+
+.App-body {
+  min-height: 50vh;
+  padding: 30px 0 0 20px;
+  border-bottom: 2px solid red;
+}
+
+.App-footer {
+  padding: 5px;
+  text-align: center;
+}
